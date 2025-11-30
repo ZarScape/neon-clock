@@ -64,9 +64,6 @@ It features a glowing cyberpunk-style UI, smooth background animations, and a re
 ---
 
 ## 🎥 Preview
-
-> *Add a screenshot or GIF here*  
-Example:  
 ![Preview](images/preview.png)
 
 ---
